@@ -1,28 +1,34 @@
-Learner
+# Learner
+
 Welcome to the Learner project! This is a simple Android application demonstrating the use of a Button and a WebView.
 
-Table of Contents
-Project Overview
-Features
-Installation
-Usage
-Contributing
-License
-Acknowledgements
-Project Overview
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## Project Overview
+
 The Learner project is a basic Android app developed in Android Studio. It showcases how to implement a Button that, when clicked, loads a webpage into a WebView.
 
-Features
-Button: A simple button that triggers an action.
-WebView: A WebView that loads a specified URL when the button is clicked.
-Installation
+## Features
+
+- **Button:** A simple button that triggers an action.
+- **WebView:** A WebView that loads a specified URL when the button is clicked.
+
+## Installation
+
 To set up this project on your local machine, follow these steps:
 
-Clone the repository:
+1. **Clone the repository:**
 
-sh
-Copy code
-git clone https://github.com/yourusername/Learner.git
+   ```sh
+   git clone https://github.com/yourusername/Learner.git
 Open the project in Android Studio:
 
 Launch Android Studio.
